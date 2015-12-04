@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.SmartFunnyCool.com
+title: SmartFunnyCool
+subtitle: A blog about computers, humor, and music.
+author: Sam Ghitelman
 simple_search: https://www.google.com/search
-description:
+description: I write about all things that are smart, funny, and cool. This blog is the embodiment of the SmartFunnyCool lifestyle
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
